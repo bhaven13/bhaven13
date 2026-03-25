@@ -1,47 +1,60 @@
-<div align="center">
+<h1 align="center">👨‍💻 Bhavendra Singh | Founder @ <a href="https://triyak.in">TRIYAK</a></h1>
 
-# 👨‍💻 Bhaven | Technical Architect & Founder
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder-TRIYAK-blue?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Architect-Full%20Stack-orange?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Expert-AI%20Digital-green?style=for-the-badge&logo=google-cloud" />
+</p>
 
-<img src="https://raw.githubusercontent.com/bhaven13/bhaven13/main/banner.png" width="100%" alt="Professional Banner" />
+<p align="center">
+  <b>Architecting Digital Transformation & Social Impact Scaling.</b><br>
+  Founder of <b>TRIYAK</b> and <b>FundsForAll</b>. Building the future of IT & Crowdfunding.
+</p>
 
-### 🛠️ Building High-Impact Enterprise Solutions & Social Good
-I am a Full-Stack Engineer and the Founder of **[Kindness Welfare Association](https://kindnesswelfare.com)**. I specialize in building mission-critical architectures across Fintech, Legal-Tech, and Data Automation sectors.
+<hr />
+
+### 🛠️ Technical Stack & Expertise
+*Modern web architectures across 22+ professional implementations:*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Core Frontend</h4>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 Backend & Systems</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/API-REST-blue" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Key Focus Areas:
+- 🌐 **Enterprise Architectures**: Scaling secure, high-traffic IT ecosystems.
+- 🏗️ **Product Incubation**: Accelerating ideas from concept to revenue.
+- ❤️ **Social Impact Scaling**: Empowering movements via **FundsForAll**.
+- 📊 **Automation & Scrapers**: Engineering advanced data flows and scrapers.
 
 ---
 
-### 🔥 My Technical Mastery (22+ Enterprise Projects)
-*Across my portfolio of private & professional systems, I’ve mastered the core stack of modern software delivery:*
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🧪 Technical Proficiency Levels:
+- **Architecture Design** `████████████████████ 100%`
+- **Frontend Development** `████████████████░░░░ 85%`
+- **Database Engineering** `████████████████░░░░ 80%`
+- **AI & Automation** `██████████████████░░ 90%`
 
 ---
 
-### 🚀 Key Focus Areas & Expertise:
-- 🍽️ **Social Impact Tech**: Scaling complex NGO platforms for national-level donation processing.
-- 🧾 **Enterprise Fintech**: Designing robust Invoicing engines, ERP modules, and Payroll systems.
-- 📊 **Performance Dashboards**: Architecting advanced analytics and real-world performance tracking.
-- 🕸️ **Advanced Automation**: Building high-efficiency data extraction and scraping engines.
-- ⚖️ **Sector-Specific SaaS**: Engineering niche applications for Legal and Professional services.
-
----
-
-### 📈 Global Impact & Real-World Activity:
-*(Showing contributions from my professional & private repos)*
-
-![Bhaven's Stats Card](https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=radical&count_private=true)
-![Bhaven's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=radical)
-
----
-
-### 📫 Let's Connect:
-[LinkedIn](https://linkedin.com/in/bhavendra) | [Instagram](https://instagram.com/bhaven.singh | [WhatsApp](https://wa.me/918233330508) | [Website](https://triyak.in)
-
----
-*"Technology is at its best when it serves humanity."* 🌍💻🥣
-
-</div>
+### 📫 Connect with Founder:
+<p align="left">
+<a href="https://linkedin.com/in/bhavendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhavendra Singh" height="30" width="40" /></a>
+<a href="https://instagram.com/bhaven.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaven.singh" height="30" width="40" /></a>
+<a href="https://wa.me/918233330508" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="30" width="
