@@ -1,24 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:6e3aff&height=200&section=header&text=BHAVENDRA%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=FOUNDER%20%7C%20BUILDER%20%7C%20ARCHITECT&descSize=14&descAlignY=75&descFontColor=c2a4ff&animation=fadeIn" width="100%" />
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0533,100:6e3aff&height=280&section=header&text=BHAVENDRA%20SINGH&fontSize=52&fontColor=ffffff&fontAlignY=45&stroke=6e3aff&strokeWidth=2&desc=%E2%97%88%20SERIAL%20FOUNDER%20%E2%80%A2%20ONCHAIN%20BUILDER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%97%88&descSize=13&descAlignY=65&descFontColor=c2a4ff&animation=fadeIn" width="100%" />
+
+<!-- ANIMATED SNAKE CONTRIBUTION GRID -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaven13/bhaven13/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaven13/bhaven13/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bhaven13/bhaven13/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- BOOT SEQUENCE -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                   [ SYSTEM BOOT SEQUENCE ]                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  > NODE: bhaven13.eth                                            ║
+║  > CHAIN: MAINNET ●  SOLANA ●  BASE ●  POLYGON ●               ║
+║  > UPTIME: 10+ YEARS                                             ║
+║  > TRANSACTIONS: 100+ SHIPPED PRODUCTS                           ║
+║  > STATUS: ██████████████████████ BUILDING                       ║
+║  > SIGNAL: ████████████░░░░░░░░░░ STRONG                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<!-- HOLOGRAPHIC BADGES -->
+<img src="https://img.shields.io/badge/◈_FOUNDER-TRIYAK_DIGITAL-6e3aff?style=for-the-badge&logoColor=white&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/◈_WEB3-ONCHAIN_BUILDER-8b5cf6?style=for-the-badge&logoColor=white&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/◈_AI-POWERED_PRODUCTS-00ffcc?style=for-the-badge&logoColor=black&labelColor=0a0014" />
+<img src="https://img.shields.io/badge/◈_DeFi-PROTOCOL_ARCHITECT-ff6b6b?style=for-the-badge&logoColor=white&labelColor=0a0014" />
+
+<br/><br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=bhaven13&style=for-the-badge&color=6e3aff&labelColor=0a0014&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/bhaven13?style=for-the-badge&color=8b5cf6&labelColor=0a0014&label=FOLLOWERS" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ VENTURE LEDGER
+
+</div>
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract BhavendraVentures {
+
+    struct Venture {
+        string  name;
+        uint256 founded;
+        string  domain;
+        uint256 projects;
+        bool    active;
+    }
+
+    Venture[3] public ventures = [
+        Venture("TRIYAK Digital Agency", 2021, "Web · Mobile · AI · Web3", 100, true),
+        Venture("FundsForAll",           2026, "Social Impact · Crowdfunding", 0,  true),
+        Venture("Freelance Builder",     2015, "Full-Stack · Zero-to-Launch",  50, false)
+    ];
+
+    address public founder = 0xBhavendra; // info@triyak.in
+
+    function getStack() pure external returns (string memory) {
+        return "Next.js · React · TypeScript · Node · Python · Solidity · Wagmi · Supabase · AI";
+    }
+}
+```
+
+---
+
+<div align="center">
+
+## ◈ CORE PROTOCOL STACK
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,supabase,firebase,mongodb,solidity,figma,git,docker,aws&perline=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ ONCHAIN METRICS
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaven13&theme=react-dark&area=true&hide_border=true&bg_color=000000&color=6e3aff&line=8b5cf6&point=c2a4ff&area_color=1a0533" width="100%" />
 
 <br/>
 
-```
-> initializing profile.exe ...
-> loading systems: [████████████████████] 100%
-> user: BHAVENDRA SINGH
-> role: SERIAL FOUNDER · FULL-STACK BUILDER
-> status: BUILDING
-```
+<img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=000000&title_color=c2a4ff&icon_color=6e3aff&text_color=ffffff&ring_color=6e3aff" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=c2a4ff&text_color=ffffff" height="195" />
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOUNDER-TRIYAK-6e3aff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/10%2B_YEARS-SHIPPING-00ff88?style=for-the-badge&logo=lightning&logoColor=black&labelColor=0d0d0d" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bhaven13&theme=radical&hide_border=true&background=000000&ring=6e3aff&fire=c2a4ff&currStreakLabel=c2a4ff&sideLabels=8b5cf6&dates=666666" />
 
 </div>
 
@@ -26,62 +111,9 @@
 
 <div align="center">
 
-### ⚡ SYSTEM TROPHIES
+## ⚡ SYSTEM TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhaven13&theme=radical&no-frame=true&margin-w=12&column=4" />
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ CORE STACK
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,supabase,firebase,mongodb,solidity,figma,git,docker,aws" />
-
-</div>
-
----
-
-```yaml
-IDENTITY:
-  name:     Bhavendra Singh
-  handle:   @bhaven13
-  base:     India → Global
-
-VENTURES:
-  - TRIYAK Digital Agency    # 2021 → NOW  | 100+ projects | 50+ clients
-  - FundsForAll              # 2026 → NOW  | Crowdfunding for social impact
-  - Freelance Builder        # 2015 → 2021 | Full-stack, zero to launch
-
-CLIENTS:
-  - AU Small Finance Bank
-  - Shakun Advertising
-  - Pokerbol
-  - ...and 45+ more globally
-
-EXPERTISE:
-  - Web · Mobile · AI · Web3 · DeFi · SaaS · Design Systems
-
-CONTACT:
-  phone:    +91 82333 30508
-  email:    info@triyak.in
-  web:      https://triyak.in
-```
-
----
-
-<div align="center">
-
-### ◈ ACTIVITY MATRIX
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaven13&theme=react-dark&area=true&hide_border=true&bg_color=0d0d0d&color=6e3aff&line=6e3aff&point=c2a4ff" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff&icon_color=6e3aff" height="195" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff" height="195" />
+<img src="https://github-profile-trophy.vercel.app/?username=bhaven13&theme=radical&no-frame=true&margin-w=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 
 </div>
 
@@ -89,26 +121,33 @@ CONTACT:
 
 <div align="center">
 
-### ◈ CONNECT
+## ◈ SIGNAL NODE
 
 <a href="https://linkedin.com/in/bhavendra">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://instagram.com/bhaven.singh">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://wa.me/918233330508">
-  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://triyak.in">
-  <img src="https://img.shields.io/badge/TRIYAK.IN-6e3aff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/TRIYAK.IN-6e3aff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://bhavendra.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e3aff,100:0d0d0d&height=100&section=footer&text=BUILD.%20SHIP.%20SCALE.&fontSize=16&fontColor=c2a4ff&fontAlignY=65" width="100%" />
+```
+┌─────────────────────────────────────────────────────┐
+│  "Don't wait for the future. Architect it."          │
+│                              — Bhavendra Singh       │
+└─────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0533,100:6e3aff&height=120&section=footer&text=BUILD.%20SHIP.%20SCALE.%20REPEAT.&fontSize=18&fontColor=c2a4ff&fontAlignY=65&animation=twinkling" width="100%" />
 
 </div>
