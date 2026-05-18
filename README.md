@@ -1,89 +1,75 @@
 <div align="center">
 
-# 🏛️ Bhavendra Singh 
-### **FOUNDER @ [TRIYAK](https://triyak.in) | CHIEF DIGITAL ARCHITECT** 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e3aff&height=120&section=header&text=Bhavendra%20Singh&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Founder-TRIYAK-blue?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Architect-Full%20Stack-orange?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Expert-AI%20Digital-green?style=for-the-badge&logo=google-cloud" />
-</p>
+# Serial Founder. Full-Stack Builder.
 
----
+**Turning ideas into profitable products — since 2015.**
 
-### 🏆 Professional Achievement Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaven13&theme=radical&no-frame=true&margin-w=15&column=4" />
-</p>
+Founder of [TRIYAK Digital Agency](https://triyak.in) &nbsp;·&nbsp; Founder of [FundsForAll](https://fundsforall.in) &nbsp;·&nbsp; 10+ years · 100+ projects · 50+ clients
 
----
+[![Portfolio](https://img.shields.io/badge/bhavendra.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://bhavendra.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavendra)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918979571072)
+[![TRIYAK](https://img.shields.io/badge/triyak.in-6e3aff?style=flat-square&logo=rocket&logoColor=white)](https://triyak.in)
 
-### 🎨 My Technological Arsenal
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,firebase,nodejs,mongodb,postman,git,github,vscode,figma,aws,docker)](https://skillicons.dev)
-
----
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🚀 Founders Vision</h3>
-      <p>Building <b>TRIYAK</b> as a premier AI-digital agency. Bridging the gap between <b>Human Potential</b> and <b>Enterprise Efficiency</b> through elite software architecture.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌍 Global Footprint</h3>
-      <p>Consulted for high-profile clients in <b>India</b> and <b>Internationally</b>. 10+ years scaled 22+ private & professional systems from 0 to 1.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🏛️ Social Systems</h3>
-      <p>Scaling <b>Social Impact</b> via <b>FundsForAll</b> and 100% transparent donation gateways for high-volume movements.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Professional & Private Activity:
-*(This graph monitors my 22+ professional implementations)*
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaven13&theme=react-dark&area=true&hide_border=true&border_radius=10" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=radical&count_private=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=radical" height="195" />
 </div>
 
 ---
 
-### 🧪 Technical Proficiency Levels:
-- **Architecture Design** `████████████████████ 100%`
-- **Frontend Master (React/Next)** `████████████████░░░░ 85%`
-- **Digital Growth & AI** `██████████████████░░ 90%`
-- **System Automation** `██████████████████░░ 90%`
+## What I Build
+
+```
+Full-Stack Web & Mobile    →  React, Next.js, Node.js, TypeScript, React Native, Flutter
+AI-Powered Products        →  LLM integrations, automation, intelligent workflows  
+Web3 & DeFi                →  Solidity, Wagmi, Viem, onchain systems
+UI/UX & Brand              →  Design systems, motion, Web3 aesthetics
+```
 
 ---
 
-### 📫 Connect with Founder:
-<p align="center">
-<a href="https://linkedin.com/in/bhavendra">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/bhaven.singh">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://wa.me/918233330508">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://triyak.in">
-  <img src="https://img.shields.io/badge/Triyak.in-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-</p>
+## Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,tailwind,supabase,firebase,mongodb,solidity,figma,git,docker,aws&perline=7)](https://skillicons.dev)
+
+</div>
 
 ---
-<p align="center">
-  <i>"Technology is the bridge to human achievement and digital growth."</i> 🏛️
-</p>
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=6e3aff&icon_color=6e3aff&text_color=ccc" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6e3aff&text_color=ccc" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaven13&theme=tokyo-night&area=true&hide_border=true&bg_color=0d0d0d&color=6e3aff&line=6e3aff&point=ffffff" width="100%" />
+</div>
+
+---
+
+## Notable Work
+
+| Project | Stack | Description |
+|---|---|---|
+| [TRIYAK Agency](https://triyak.in) | Next.js 15, Tailwind | Full-service digital agency platform |
+| FundsForAll | Next.js, Firebase, Supabase | Crowdfunding for social impact |
+| CUVA | Next.js 14, Solidity, Wagmi | Web3 DeFi ecosystem |
+| Kundli Pro | Next.js, Python, i18n | Multilingual astrology SaaS |
+| Partie | Next.js, Supabase | Social events & discovery app |
+| Fiti-Fi | Next.js, AI | AI-powered resume & fitness platform |
+
+---
+
+<div align="center">
+
+*"Build it. Ship it. Scale it."*
+
+**Open to global collaborations — [info@triyak.in](mailto:info@triyak.in)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e3aff&height=80&section=footer" width="100%" />
 
 </div>
