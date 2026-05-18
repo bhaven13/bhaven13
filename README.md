@@ -1,28 +1,35 @@
-[[<div align="center">
+<div align="center">
 
-# 🚀 Bhavendra Singh
-### **FOUNDER @ [TRIYAK](https://triyak.in) | SERIAL BUILDER & FULL-STACK ARCHITECT**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C2A4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bhavendra+Singh+%F0%9F%91%8B;Serial+Founder+%26+Full-Stack+Builder;10%2B+Years+%7C+100%2B+Products+Shipped;Web+%C2%B7+Mobile+%C2%B7+AI+%C2%B7+Web3" alt="Typing SVG" />
+
+<br/>
+
+### **FOUNDER @ [TRIYAK](https://triyak.in) &nbsp;·&nbsp; SERIAL BUILDER &nbsp;·&nbsp; FULL-STACK ARCHITECT**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founder-TRIYAK-6e3aff?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack-Architect-orange?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-DeFi%20Builder-8b5cf6?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Powered%20Products-00ffcc?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-Powered%20Products-00e5cc?style=for-the-badge&logo=openai&logoColor=black" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=bhaven13&style=flat-square&color=6e3aff&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/bhaven13?style=flat-square&color=8b5cf6&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-### 🏆 Professional Achievement Trophies
+### 🏆 Trophies
 
 <p align="center">
-  <b>Serial founder. Full-stack builder. 10+ years turning ideas into profitable products.</b><br />
-  Founder of <b>TRIYAK Digital Agency</b> and <b>FundsForAll</b>. Building across Web, Mobile, AI & Web3.
+  <b>Serial founder. 10+ years turning ideas into profitable products.</b><br />
+  Founder of <b>TRIYAK Digital Agency</b> and <b><a href="https://fundsforall.co">FundsForAll</a></b>. Building across Web, Mobile, AI &amp; Web3.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaven13&theme=radical&no-frame=true&margin-w=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaven13&theme=radical&no-frame=true&margin-w=12&column=4" />
 </p>
 
 ---
@@ -31,13 +38,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,supabase,firebase,mongodb,solidity,react,flutter,figma,git,docker,aws&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,supabase,firebase,mongodb,solidity,flutter,figma,git,docker,aws&perline=8" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Technical Stack & Expertise
+### 🛠️ Technical Stack
 
 <table align="center" width="100%">
 <tr>
@@ -51,7 +58,7 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   </td>
   <td width="33%" valign="top">
-    <h4>🏗️ Backend & Data</h4>
+    <h4>🏗️ Backend &amp; Data</h4>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br/>
@@ -60,7 +67,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   </td>
   <td width="33%" valign="top">
-    <h4>🌐 Web3 & AI</h4>
+    <h4>🌐 Web3 &amp; AI</h4>
     <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /><br/>
     <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square&logo=ethereum&logoColor=white" /><br/>
     <img src="https://img.shields.io/badge/Viem-7C3AED?style=flat-square&logo=ethereum&logoColor=white" /><br/>
@@ -81,11 +88,11 @@
     </td>
     <td width="33%" align="center">
       <h3>🌍 Global Reach</h3>
-      <p>Delivered for clients across India and internationally — including <b>AU Small Finance Bank</b>, Shakun Advertising, and Pokerbol. 10+ years. 50+ clients.</p>
+      <p>Delivered for clients across India and internationally — including <b>Shakun Advertising</b>, Pokerbol, and more. 10+ years. 50+ clients worldwide.</p>
     </td>
     <td width="33%" align="center">
       <h3>💡 Social Impact</h3>
-      <p>Founder of <b>FundsForAll</b> — a crowdfunding platform empowering NGOs and individuals to raise funds and drive meaningful change at scale.</p>
+      <p>Founder of <a href="https://fundsforall.co"><b>FundsForAll</b></a> — crowdfunding for social impact. Also built <a href="https://partie.in"><b>Partie</b></a> — a social events &amp; discovery app.</p>
     </td>
   </tr>
 </table>
@@ -95,10 +102,10 @@
 ### 🚀 Key Focus Areas
 
 - ⚡ **Full-Stack Products** — Web, mobile, SaaS from zero to launch and revenue
-- 🌐 **Web3 & DeFi** — Onchain protocols, smart contracts, DeFi ecosystems
+- 🌐 **Web3 &amp; DeFi** — Onchain protocols, smart contracts, DeFi ecosystems
 - 🤖 **AI-Powered Solutions** — LLM integrations, automation, intelligent workflows
 - 🏗️ **Product Incubation** — Taking ideas from concept to profitable businesses
-- 💡 **Social Impact** — Empowering communities via **FundsForAll**
+- 💡 **Social Impact** — Empowering communities via **[FundsForAll](https://fundsforall.co)**
 
 ---
 
@@ -108,27 +115,31 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaven13&theme=react-dark&area=true&hide_border=true&border_radius=10&bg_color=0d0d0d&color=6e3aff&line=8b5cf6&point=c2a4ff" width="100%" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff&icon_color=6e3aff" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff&icon_color=6e3aff&cache_seconds=1800" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff&cache_seconds=1800&langs_count=8" height="195" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhaven13&theme=radical&hide_border=true&background=0d0d0d&ring=6e3aff&fire=c2a4ff&currStreakLabel=c2a4ff&sideLabels=8b5cf6&dates=666666" />
+  <img src="https://streak-stats.demolab.com?user=bhaven13&theme=radical&hide_border=true&background=0d0d0d&ring=6e3aff&fire=c2a4ff&currStreakLabel=c2a4ff&sideLabels=8b5cf6&dates=666666" />
 </div>
 
 ---
 
 ### 🧪 Technical Proficiency
 
-- **Full-Stack Architecture** &nbsp; `████████████████████` &nbsp; 100%
-- **Frontend (React / Next.js)** &nbsp; `████████████████████` &nbsp; 95%
-- **Mobile (React Native / Flutter)** &nbsp; `████████████████░░░░` &nbsp; 85%
-- **Web3 & Smart Contracts** &nbsp; `███████████████░░░░░` &nbsp; 80%
-- **AI & Automation** &nbsp; `██████████████████░░` &nbsp; 90%
-- **UI/UX & Design Systems** &nbsp; `████████████████████` &nbsp; 95%
+| Skill | Level |
+|---|---|
+| Full-Stack Architecture | `████████████████████` 100% |
+| Frontend — React / Next.js | `████████████████████` 95% |
+| UI/UX &amp; Design Systems | `████████████████████` 95% |
+| AI &amp; Automation | `██████████████████░░` 90% |
+| Mobile — React Native / Flutter | `████████████████░░░░` 85% |
+| Web3 &amp; Smart Contracts | `███████████████░░░░░` 80% |
 
 ---
 
@@ -152,10 +163,12 @@
   </a>
 </p>
 
----
+<br/>
 
-<p align="center">
+<div align="center">
   <i>"Don't wait for the future. Architect it."</i>
-</p>
-](https://camo.githubusercontent.com/81020abbce3d4f08b41b7dfa5a402e5c1c56b2271a132135d871bbf67d5382a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d62686176656e3133266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306430643064267469746c655f636f6c6f723d633261346666)
-](https://camo.githubusercontent.com/81020abbce3d4f08b41b7dfa5a402e5c1c56b2271a132135d871bbf67d5382a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d62686176656e3133266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306430643064267469746c655f636f6c6f723d633261346666)
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,100:6e3aff&height=100&section=footer&text=Build.+Ship.+Scale.&fontSize=16&fontColor=c2a4ff&fontAlignY=65&animation=twinkling" width="100%" />
