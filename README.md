@@ -1,75 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e3aff&height=120&section=header&text=Bhavendra%20Singh&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:6e3aff&height=200&section=header&text=BHAVENDRA%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=FOUNDER%20%7C%20BUILDER%20%7C%20ARCHITECT&descSize=14&descAlignY=75&descFontColor=c2a4ff&animation=fadeIn" width="100%" />
 
-# Serial Founder. Full-Stack Builder.
-
-**Turning ideas into profitable products — since 2015.**
-
-Founder of [TRIYAK Digital Agency](https://triyak.in) &nbsp;·&nbsp; Founder of [FundsForAll](https://fundsforall.in) &nbsp;·&nbsp; 10+ years · 100+ projects · 50+ clients
-
-[![Portfolio](https://img.shields.io/badge/bhavendra.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://bhavendra.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavendra)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918979571072)
-[![TRIYAK](https://img.shields.io/badge/triyak.in-6e3aff?style=flat-square&logo=rocket&logoColor=white)](https://triyak.in)
-
-</div>
-
----
-
-## What I Build
+<br/>
 
 ```
-Full-Stack Web & Mobile    →  React, Next.js, Node.js, TypeScript, React Native, Flutter
-AI-Powered Products        →  LLM integrations, automation, intelligent workflows  
-Web3 & DeFi                →  Solidity, Wagmi, Viem, onchain systems
-UI/UX & Brand              →  Design systems, motion, Web3 aesthetics
+> initializing profile.exe ...
+> loading systems: [████████████████████] 100%
+> user: BHAVENDRA SINGH
+> role: SERIAL FOUNDER · FULL-STACK BUILDER
+> status: BUILDING
+```
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOUNDER-TRIYAK-6e3aff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/10%2B_YEARS-SHIPPING-00ff88?style=for-the-badge&logo=lightning&logoColor=black&labelColor=0d0d0d" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ SYSTEM TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhaven13&theme=radical&no-frame=true&margin-w=12&column=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ◈ CORE STACK
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,supabase,firebase,mongodb,solidity,figma,git,docker,aws" />
+
+</div>
+
+---
+
+```yaml
+IDENTITY:
+  name:     Bhavendra Singh
+  handle:   @bhaven13
+  base:     India → Global
+
+VENTURES:
+  - TRIYAK Digital Agency    # 2021 → NOW  | 100+ projects | 50+ clients
+  - FundsForAll              # 2026 → NOW  | Crowdfunding for social impact
+  - Freelance Builder        # 2015 → 2021 | Full-stack, zero to launch
+
+CLIENTS:
+  - AU Small Finance Bank
+  - Shakun Advertising
+  - Pokerbol
+  - ...and 45+ more globally
+
+EXPERTISE:
+  - Web · Mobile · AI · Web3 · DeFi · SaaS · Design Systems
+
+CONTACT:
+  phone:    +91 82333 30508
+  email:    info@triyak.in
+  web:      https://triyak.in
 ```
 
 ---
 
-## Stack
-
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,tailwind,supabase,firebase,mongodb,solidity,figma,git,docker,aws&perline=7)](https://skillicons.dev)
+### ◈ ACTIVITY MATRIX
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaven13&theme=react-dark&area=true&hide_border=true&bg_color=0d0d0d&color=6e3aff&line=6e3aff&point=c2a4ff" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff&icon_color=6e3aff" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c2a4ff" height="195" />
 
 </div>
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaven13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=6e3aff&icon_color=6e3aff&text_color=ccc" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaven13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6e3aff&text_color=ccc" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaven13&theme=tokyo-night&area=true&hide_border=true&bg_color=0d0d0d&color=6e3aff&line=6e3aff&point=ffffff" width="100%" />
-</div>
-
----
-
-## Notable Work
-
-| Project | Stack | Description |
-|---|---|---|
-| [TRIYAK Agency](https://triyak.in) | Next.js 15, Tailwind | Full-service digital agency platform |
-| FundsForAll | Next.js, Firebase, Supabase | Crowdfunding for social impact |
-| CUVA | Next.js 14, Solidity, Wagmi | Web3 DeFi ecosystem |
-| Kundli Pro | Next.js, Python, i18n | Multilingual astrology SaaS |
-| Partie | Next.js, Supabase | Social events & discovery app |
-| Fiti-Fi | Next.js, AI | AI-powered resume & fitness platform |
-
----
-
 <div align="center">
 
-*"Build it. Ship it. Scale it."*
+### ◈ CONNECT
 
-**Open to global collaborations — [info@triyak.in](mailto:info@triyak.in)**
+<a href="https://linkedin.com/in/bhavendra">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
+</a>
+<a href="https://instagram.com/bhaven.singh">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" />
+</a>
+<a href="https://wa.me/918233330508">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d" />
+</a>
+<a href="https://triyak.in">
+  <img src="https://img.shields.io/badge/TRIYAK.IN-6e3aff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d0d0d" />
+</a>
+<a href="https://bhavendra.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d0d0d" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e3aff&height=80&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e3aff,100:0d0d0d&height=100&section=footer&text=BUILD.%20SHIP.%20SCALE.&fontSize=16&fontColor=c2a4ff&fontAlignY=65" width="100%" />
 
 </div>
